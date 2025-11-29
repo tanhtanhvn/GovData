@@ -1,7 +1,8 @@
 # Table of contents
 
-* [TỔNG QUAN KHÓA HỌC](README.md)
+* [GIỚI THIỆU KHÓA HỌC](README.md)
 * [TÓM TẮT NỘI DUNG](tom-tat-noi-dung.md)
+* [VỀ TÀI LIỆU](ve-tai-lieu.md)
 * [VỀ CÔNG TY FDS](https://fds.vn/)
 
 ## Nội dung các chuyên đề
