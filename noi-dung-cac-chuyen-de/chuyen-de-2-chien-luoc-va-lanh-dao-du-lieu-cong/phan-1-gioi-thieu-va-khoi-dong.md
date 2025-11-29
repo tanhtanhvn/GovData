@@ -12,7 +12,9 @@
 * Cơ quan đã có đơn vị chịu trách nhiệm quản trị dữ liệu hay chưa?
 * Dữ liệu của cơ quan hiện đang ở dạng rời rạc, báo cáo thủ công, hay đã tích hợp trên nền tảng chung?
 
-🎯 _Mục đích:_ nhận diện khoảng cách giữa việc “có dữ liệu” và “dùng dữ liệu” để lãnh đạo, ra quyết định.**2. Dữ liệu là tài sản công**
+🎯 _Mục đích:_ nhận diện khoảng cách giữa việc “có dữ liệu” và “dùng dữ liệu” để lãnh đạo, ra quyết định.
+
+#### **2. Dữ liệu là tài sản công**
 
 * Chúng ta đã hiểu rằng:
   * Dữ liệu là tài nguyên chiến lược của quốc gia, có giá trị như đất đai, năng lượng hay vốn tài chính.
@@ -21,7 +23,7 @@
 
 > “Không chỉ sở hữu dữ liệu, mà còn phải biết **biến dữ liệu thành hành động.**”
 
-**3. Mô hình kim tự tháp chuyển đổi dữ liệu**
+#### **3. Mô hình kim tự tháp chuyển đổi dữ liệu**
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt="" width="375"><figcaption></figcaption></figure>
 

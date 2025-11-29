@@ -2,7 +2,7 @@
 
 **Mô tả tóm tắt:**
 
-Chuyên đề 8 làm rõ vai trò cốt lõi của **Kiến trúc miền dữ liệu** (Data Domain Architecture) như một mắt xích trung gian, giúp cụ thể hóa chiến lược của **Kiến trúc dữ liệu quốc gia** thành các mô hình dữ liệu chi tiết, chuyên ngành. Để đảm bảo sự liên thông và khai thác hiệu quả, kiến trúc này phải kết hợp chặt chẽ **Ontology và Từ điển dữ liệu**, qua đó chuẩn hóa cả ý nghĩa ngữ nghĩa lẫn cấu trúc kỹ thuật của thông tin. Vai trò của Kiến trúc sư miền dữ liệu là then chốt, chịu trách nhiệm thiết kế và dịch chuyển logic nghiệp vụ thành mô hình dữ liệu có khả năng chia sẻ. Cuối cùng, chuyên đề nhấn mạnh tầm quan trọng của **Sandbox dữ liệu** và sàn dữ liệu như những cơ chế thể chế nhằm thúc đẩy **Đổi mới sáng tạo dữ liệu công** trong môi trường an toàn và được giám sát.
+Chuyên đề 8 làm rõ vai trò cốt lõi của Kiến trúc miền dữ liệu (Data Domain Architecture) như một mắt xích trung gian, giúp cụ thể hóa chiến lược của Kiến trúc dữ liệu quốc gia thành các mô hình dữ liệu chi tiết, chuyên ngành. Để đảm bảo sự liên thông và khai thác hiệu quả, kiến trúc này phải kết hợp chặt chẽ Ontology và Từ điển dữ liệu, qua đó chuẩn hóa cả ý nghĩa ngữ nghĩa lẫn cấu trúc kỹ thuật của thông tin. Vai trò của Kiến trúc sư miền dữ liệu là then chốt, chịu trách nhiệm thiết kế và dịch chuyển logic nghiệp vụ thành mô hình dữ liệu có khả năng chia sẻ. Cuối cùng, chuyên đề nhấn mạnh tầm quan trọng của Sandbox dữ liệu và sàn dữ liệu như những cơ chế thể chế nhằm thúc đẩy Đổi mới sáng tạo dữ liệu công trong môi trường an toàn và được giám sát.
 
 ✅ **Thông điệp then chốt:**
 

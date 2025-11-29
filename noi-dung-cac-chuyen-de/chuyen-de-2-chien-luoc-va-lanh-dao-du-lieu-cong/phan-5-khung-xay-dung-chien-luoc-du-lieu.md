@@ -1,10 +1,10 @@
 # Phần 5 - Khung xây dựng Chiến lược dữ liệu
 
-**1.** **Tổng quan về Khung xây dựng chiến lược dữ liệu**
+#### **1.** **Tổng quan về Khung xây dựng chiến lược dữ liệu**
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-**2.** **Quy trình xây dựng chiến lược dữ liệu**
+#### **2.** **Quy trình xây dựng chiến lược dữ liệu**
 
 a) Phân tích, đánh giá về môi trường vĩ mô để xác định các yếu tố có thể tác động tới kế hoạch dài hạn của chính phủ, khối cơ quan về quản lý dữ liệu.
 

@@ -2,7 +2,7 @@
 
 **Mô tả tóm tắt:**
 
-Chuyên đề 2 trình bày một cách toàn diện về **Chiến lược và Lãnh đạo Dữ liệu Công**, nhấn mạnh vai trò của dữ liệu như một **tài nguyên chiến lược quốc gia**. Mục tiêu cốt lõi là chuyển đổi dữ liệu thô thành **Hành động** và các quyết định chiến lược, được minh họa qua mô hình Kim tự tháp giá trị dữ liệu. Để đạt được mục tiêu này, chuyên đề giới thiệu **Mô hình tam giác Lãnh đạo dữ liệu** cân bằng ba trụ cột: **Chính sách** (định hướng pháp lý), **Quản trị** (chuẩn hóa và giám sát), và **Công nghệ** (thực thi và tăng tốc). Cuối cùng, để đo lường thành công, chương trình thảo luận về việc sử dụng kết hợp **KPI (Chỉ số Hiệu suất)** và **KQI (Chỉ số Chất lượng)** nhằm đảm bảo rằng dữ liệu không chỉ được khai thác rộng rãi mà còn phải đáng tin cậy.
+Chuyên đề 2 trình bày một cách toàn diện về Chiến lược và Lãnh đạo Dữ liệu Công, nhấn mạnh vai trò của dữ liệu như một tài nguyên chiến lược quốc gia. Mục tiêu cốt lõi là chuyển đổi dữ liệu thô thành Hành động và các quyết định chiến lược, được minh họa qua mô hình Kim tự tháp giá trị dữ liệu. Để đạt được mục tiêu này, chuyên đề giới thiệu Mô hình tam giác Lãnh đạo dữ liệu cân bằng ba trụ cột: Chính sách (định hướng pháp lý), Quản trị (chuẩn hóa và giám sát), và Công nghệ (thực thi và tăng tốc). Cuối cùng, để đo lường thành công, chương trình thảo luận về việc sử dụng kết hợp KPI (Chỉ số Hiệu suất) và KQI (Chỉ số Chất lượng) nhằm đảm bảo rằng dữ liệu không chỉ được khai thác rộng rãi mà còn phải đáng tin cậy.
 
 **Thông điệp then chốt:**
 

@@ -14,7 +14,9 @@ _💬 Nói cách khác, đây là kim chỉ nam cho toàn bộ hoạt động d�
   * Thúc đẩy đổi mới sáng tạo và ra quyết định dựa trên dữ liệu
   * Đảm bảo an toàn, bảo mật và quyền riêng tư dữ liệu
 
-**2.** **Thành phần chính của Chiến lược dữ liệua) Quan điểm/Tầm nhìn dữ liệu**
+#### **2.** **Thành phần chính của Chiến lược dữ liệu**
+
+**a) Quan điểm/Tầm nhìn dữ liệu**
 
 * Quan điểm là tư tưởng, lập trường và cách nhìn nhận ở tầm chiến lược về vai trò, giá trị và định hướng phát triển dữ liệu; là “_cái khung tư duy lớn_” để mọi chính sách, nguyên tắc và hành động được xây dựng dựa trên đó.
 * Tầm nhìn dữ liệu là mục tiêu dài hạn và định hướng tổng thể của cơ quan về việc sử dụng, chia sẻ và khai thác dữ liệu nhằm tạo ra giá trị công.
@@ -60,7 +62,7 @@ _💬 Nói cách khác, đây là kim chỉ nam cho toàn bộ hoạt động d�
   * Nhóm giải pháp về đổi mới sáng tạo và khai thác dữ liệu
   * Nhóm giải pháp về truyền thông và văn hóa dữ liệu
 
-**3.** **Lãnh đạo dữ liệu (Data Leadership)**
+#### **3.** **Lãnh đạo dữ liệu (Data Leadership)**
 
 * Lãnh đạo dữ liệu là năng lực dẫn dắt, điều phối và ra quyết định dựa trên dữ liệu, với mục tiêu tạo ra giá trị, đổi mới và hiệu quả trong tổ chức.
 * Nếu _Chiến lược dữ liệu_ là “bản đồ chỉ đường”, thì _Lãnh đạo dữ liệu_ chính là “người cầm lái” — người biến dữ liệu từ tài nguyên tiềm năng thành nguồn giá trị thực tế cho tổ chức và xã hội.

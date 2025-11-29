@@ -5,7 +5,22 @@
 * Khung kiến trúc tổng thể số quốc gia, 2025.
 * Khung kiến trúc tổng thể quốc gia, Khung quản trị, quản lý dữ liệu dữ liệu quốc gia, Từ điển dữ liệu dùng chung (Phiên bản 1.0), 2025.
 * Hình ảnh được sưu tầm trên Internet và được tạo sinh với sự trợ giúp của ChatGPT.&#x20;
-* Tóm tắt nội dung học liệu được tạo sinh bởi Gemini.
+* Tóm tắt nội dung giáo trình được tạo sinh bởi Gemini.
+
+#### Công bố tài nguyên mở
+
+Tài liệu này được cấp phép theo giấy phép Creative Commons Ghi công 4.0 Quốc tế (CC BY 4.0).
+
+Bạn được tự do:
+
+* Chia sẻ (Share) — sao chép và phân phối tài liệu trên bất kỳ phương tiện và định dạng nào.
+* Chuyển thể (Adapt) — phối lại, chuyển đổi và xây dựng tài liệu cho bất kỳ mục đích nào, kể cả mục đích thương mại.
+
+Theo các điều kiện sau:
+
+* Ghi công (Attribution) — Bạn phải ghi công phù hợp, cung cấp một liên kết đến giấy phép, và cho biết nếu có bất kỳ thay đổi nào được thực hiện. Bạn có thể thực hiện theo bất kỳ cách hợp lý nào, nhưng không theo cách gợi ý rằng người cấp phép chứng thực cho bạn hoặc việc bạn sử dụng.
+
+Để xem toàn văn giấy phép, vui lòng truy cập: [https://creativecommons.org/licenses/by/4.0/legalcode.vi](https://www.google.com/search?q=https://creativecommons.org/licenses/by/4.0/legalcode.vi)&#x20;
 
 #### Giới thiệu Tác giả - TS. Tạ Tuấn Anh 👨‍🏫
 
