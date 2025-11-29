@@ -11,20 +11,26 @@
 
 > “Nếu dữ liệu là dầu mỏ của thế kỷ 21, đâu là ‘giàn khoan’ và ‘nhà máy lọc’ trong Chính phủ số của Việt Nam?”
 
-**2.** **Dữ liệu là tài nguyên và tài sản công**Theo Luật Dữ liệu (2024), dữ liệu do cơ quan nhà nước thu thập và xử lý là tài sản công thuộc sở hữu Nhà nước, phải được:
+#### **2.** **Dữ liệu là tài nguyên và tài sản công**
+
+Theo Luật Dữ liệu (2024), dữ liệu do cơ quan nhà nước thu thập và xử lý là tài sản công thuộc sở hữu Nhà nước, phải được:
 
 * Quản trị có chiến lược;
 * Chia sẻ, khai thác hợp lý;
 * Bảo vệ theo quy định an toàn thông tin và quyền riêng tư.
 
-Điều này đặt dữ liệu ngang hàng với đất đai, vốn và tài nguyên thiên nhiên – trở thành yếu tố sản xuất thứ tư của nền kinh tế dữ liệu.**3. Bốn cấp độ giá trị dữ liệu**Hệ thống dữ liệu công có thể được xem như một chuỗi giá trị tăng dần, từ “thô” đến “tinh”, tương tự quá trình tinh luyện năng lượng.
+Điều này đặt dữ liệu ngang hàng với đất đai, vốn và tài nguyên thiên nhiên – trở thành yếu tố sản xuất thứ tư của nền kinh tế dữ liệu.
+
+#### **3. Bốn cấp độ giá trị dữ liệu**
+
+Hệ thống dữ liệu công có thể được xem như một chuỗi giá trị tăng dần, từ “thô” đến “tinh”, tương tự quá trình tinh luyện năng lượng.
 
 * Dữ liệu hành chính (Administrative Data): Dữ liệu phục vụ vận hành hành chính, hồ sơ, biểu mẫu, thống kê cơ bản.
 * Dữ liệu phân tích (Analytical Data): Dữ liệu được tổng hợp, xử lý, làm sạch và chuẩn hóa.
 * Dữ liệu tri thức (Knowledge Data): Dữ liệu được kết nối đa ngành, có mô hình và ngữ cảnh.
 * Dữ liệu đổi mới (Innovation Data): Dữ liệu được mở và tái sử dụng cho sáng tạo, dịch vụ mới.
 
-**4.** **Nguyên tắc “Once-Only Principle” – Một lần thu thập, nhiều lần sử dụng**
+#### **4.** **Nguyên tắc “Once-Only Principle” – Một lần thu thập, nhiều lần sử dụng**
 
 > “Công dân, doanh nghiệp chỉ cần cung cấp thông tin một lần cho cơ quan nhà nước; dữ liệu được chia sẻ tự động, an toàn giữa các hệ thống.”
 

@@ -43,7 +43,7 @@
   * Ứng dụng trong giám sát điều hành, cảnh báo sớm, giao thông, y tế, tài chính...
 * Qua API và cổng dữ liệu mở:
   * Dữ liệu được truy cập linh hoạt, theo yêu cầu của từng đối tượng.
-  * Hỗ trợ chia sẻ qua API Gateway, NGSI-LD, Cổng dữ liệu (theo chuẩn DCAT-AP).
+  * Hỗ trợ chia sẻ qua API Gateway, Cổng dữ liệu (theo chuẩn DCAT-AP).
 
 **c) Quy trình kiểm soát đầu vào (Data Ingestion)**
 

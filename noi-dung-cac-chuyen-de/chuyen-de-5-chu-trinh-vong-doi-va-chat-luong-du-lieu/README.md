@@ -11,9 +11,9 @@
 
 #### **2. Cấu trúc chuyên đề**
 
-1. Chu trình vòng đời dữ liệu – 20 phút
-2. Quản trị chất lượng dữ liệu – 25 phút
-3. Dữ liệu chủ, dữ liệu dùng chung và dữ liệu mở – 10 phút
-4. Xây dựng danh mục dữ liệu - 10 phút
-5. Từ điển dữ liệu dùng chung – 15 phút
-6. Minh họa thực tế: CSDL quốc gia về dân cư & Đề án 06 – 10 phút
+* Chu trình vòng đời dữ liệu – 20 phút
+* Quản trị chất lượng dữ liệu – 25 phút
+* Dữ liệu chủ, dữ liệu dùng chung và dữ liệu mở – 10 phút
+* Xây dựng danh mục dữ liệu - 10 phút
+* Từ điển dữ liệu dùng chung – 15 phút
+* Minh họa thực tế: CSDL quốc gia về dân cư & Đề án 06 – 10 phút

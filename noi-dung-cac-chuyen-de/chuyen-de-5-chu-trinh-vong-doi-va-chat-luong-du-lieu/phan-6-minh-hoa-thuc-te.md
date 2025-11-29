@@ -28,7 +28,7 @@
   * Tính kịp thời (Timeliness): Cập nhật tức thời khi thay đổi đăng ký nơi cư trú.
   * Tính bảo mật (Security): Phân loại dữ liệu cá nhân – nhạy cảm – công khai.
 
-#### **5. Ứng dụng và giá trị khai thác dữ liệu dân cư trong Đề án 06**
+#### **4. Ứng dụng và giá trị khai thác dữ liệu dân cư trong Đề án 06**
 
 **a) Ứng dụng trong dịch vụ công trực tuyến:**
 

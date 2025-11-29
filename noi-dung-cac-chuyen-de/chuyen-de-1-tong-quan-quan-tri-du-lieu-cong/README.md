@@ -9,11 +9,11 @@
 
 #### 2. Cáu trúc chuyên đề
 
-1. Khai giảng & định hướng học tập: 10 phút
-2. Xu hướng toàn cầu và mô hình phát triển dữ liệu: 15 phút
-3. Chính sách & pháp lý Việt Nam: 10 phút
-4. Dữ liệu như tài sản chiến lược: 10 phút
-5. Khung kiến trúc tổng thể & kiến trúc dữ liệu quốc gia: 10 phút
-6. Minh họa thực tế: 5 phút
+* Khai giảng & định hướng học tập: 10 phút
+* Xu hướng toàn cầu và mô hình phát triển dữ liệu: 15 phút
+* Chính sách & pháp lý Việt Nam: 10 phút
+* Dữ liệu như tài sản chiến lược: 10 phút
+* Khung kiến trúc tổng thể & kiến trúc dữ liệu quốc gia: 10 phút
+* Minh họa thực tế: 5 phút
 
 <br>

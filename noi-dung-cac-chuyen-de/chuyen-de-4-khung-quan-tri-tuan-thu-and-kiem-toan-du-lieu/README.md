@@ -9,10 +9,10 @@
 
 #### 2. Cấu trúc chuyên đề
 
-1. Tổng quan về quản trị và tuân thủ dữ liệu – 10 phút
-2. Khung Quản trị & Quản lý Dữ liệu Quốc gia – 20 phút
-3. Mô hình tổ chức quản trị dữ liệu – 15 phút
-4. Quy định, Quy trình, Tiêu chuẩn, Giám sát, Văn hóa dữ liệu - 15 phút
-5. Kiểm toán dữ liệu và chỉ số KPI/KQI – 15 phút
-6. Minh họa thực tế: Bài học từ Hàn Quốc (K-Data) – 10 phút
-7. Tổng kết & thảo luận – 5 phút
+* Tổng quan về quản trị và tuân thủ dữ liệu – 10 phút
+* Khung Quản trị & Quản lý Dữ liệu Quốc gia – 20 phút
+* Mô hình tổ chức quản trị dữ liệu – 15 phút
+* Quy định, Quy trình, Tiêu chuẩn, Giám sát, Văn hóa dữ liệu - 15 phút
+* Kiểm toán dữ liệu và chỉ số KPI/KQI – 15 phút
+* Minh họa thực tế: Bài học từ Hàn Quốc (K-Data) – 10 phút
+* Tổng kết & thảo luận – 5 phút
