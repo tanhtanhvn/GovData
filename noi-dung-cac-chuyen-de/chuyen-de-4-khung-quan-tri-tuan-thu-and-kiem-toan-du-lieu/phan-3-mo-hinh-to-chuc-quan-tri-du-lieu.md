@@ -2,7 +2,7 @@
 
 #### **1. Sơ đồ tổ chức bộ máy**
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 #### **2. Các bộ phân chuyên trách**
 

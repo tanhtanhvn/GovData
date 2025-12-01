@@ -23,7 +23,7 @@
 
 #### **4.** **Các cấu phần chính**
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 * **Lớp quản lý nhà nước về dữ liệu**
   * Pháp lý chính sách dữ liệu quốc gia
