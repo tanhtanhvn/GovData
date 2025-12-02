@@ -5,7 +5,7 @@
 * Khung kiến trúc tổng thể số quốc gia, 2025.
 * Khung kiến trúc tổng thể quốc gia, Khung quản trị, quản lý dữ liệu dữ liệu quốc gia, Từ điển dữ liệu dùng chung (Phiên bản 1.0), 2025.
 * Hình ảnh được sưu tầm trên Internet và được tạo sinh với sự trợ giúp của ChatGPT.&#x20;
-* Tóm tắt nội dung giáo trình được tạo sinh bởi Gemini.
+* Tóm tắt nội dung và bài thuyết trình được tạo sinh bởi Gemini.
 
 #### Công bố tài nguyên mở
 
