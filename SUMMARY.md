@@ -2,9 +2,10 @@
 
 * [GIỚI THIỆU KHÓA HỌC](README.md)
 * [TÓM TẮT NỘI DUNG](tom-tat-noi-dung.md)
-* [BÀI THUYẾT TRÌNH](bai-thuyet-trinh.md)
+* [BÀI TRÌNH BÀY](bai-trinh-bay.md)
 * [VỀ TÀI LIỆU](ve-tai-lieu.md)
-* [VỀ CÔNG TY FDS](https://fds.vn/)
+* [OPENDIGITRANSFORM](https://opendigitransform.gitbook.io/home)
+* [CÔNG TY FDS](https://fds.vn/)
 
 ## Nội dung các chuyên đề
 
